@@ -1,0 +1,5 @@
+This is a sample text file for text analysis. It contains various sentences and paragraphs. We will use this file to count words, calculate average word length, and identify the most frequent words.
+
+This is another paragraph. It's a bit shorter than the previous one. Let's see how the analysis turns out.
+
+We can also experiment with removing punctuation and converting the text to lowercase. This will help us with further text processing tasks.
